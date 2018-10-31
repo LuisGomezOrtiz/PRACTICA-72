@@ -1,0 +1,25 @@
+@charset "utf-8";
+h1 {
+    color:#5e0c0b;
+    text-align: center;
+}
+body {
+    background-color:#f5e3cd;
+    
+}
+p {
+    color:#87200d
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+p.centrado {
+    text-align: center
+}
+p.derecha {
+    text-align: right
+}
+table {
+    margin:auto
+}
